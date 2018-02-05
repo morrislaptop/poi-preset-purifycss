@@ -1,0 +1,14 @@
+{
+  "name": "poi-preset-purifycss",
+  "version": "0.1.0",
+  "description": "egoist/poi#253",
+  "main": "index.js",
+  "repository": "https://github.com/morrislaptop/poi-preset-purifycss",
+  "author": "Craig Morris <cr@igmorr.is>",
+  "license": "MIT",
+  "dependencies": {
+    "glob": "^7.1.2",
+    "purify-css": "^1.2.5",
+    "purifycss-webpack": "^0.7.0"
+  }
+}
